@@ -20,7 +20,7 @@ spring:
     name: images
 
 management:
-  context-path: /
-
-server:
-  address: 127.0.0.1
+  endpoints:
+    web:
+      exposure:
+        include: "*"

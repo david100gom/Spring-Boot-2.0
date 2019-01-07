@@ -14,3 +14,8 @@ spring:
   application:
     name: comments
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
