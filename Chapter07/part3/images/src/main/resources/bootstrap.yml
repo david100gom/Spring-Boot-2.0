@@ -7,8 +7,3 @@ management:
     web:
       exposure:
         include: "*"
-
-#endpoints:
-#  default:
-#    web:
-#      enabled: true
