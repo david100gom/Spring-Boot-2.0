@@ -1,8 +1,8 @@
 buildscript {
 	ext {
-		springBootVersion = '2.0.0.M5'
-		springCloudVersion = 'Finchley.M3'
-		springCloudStreamVersion = 'Elmhurst.M2'
+		springBootVersion = '2.0.0.RELEASE'
+		springCloudVersion = 'Finchley.BUILD-SNAPSHOT'
+		springCloudStreamVersion = 'Elmhurst.SR2'
 	}
 	repositories {
 		mavenCentral()
@@ -55,6 +55,7 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-devtools')
 
 	compile('org.springframework.cloud:spring-cloud-starter-stream-rabbit')
+
 	compile('org.springframework.cloud:spring-cloud-stream-reactive')
 	// tag::deps[]
 	compile('org.springframework.cloud:spring-cloud-starter-netflix-eureka-client')
@@ -64,6 +65,7 @@ dependencies {
 	compile('org.projectlombok:lombok')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 	testCompile("io.projectreactor:reactor-test")
+
 }
 
 dependencyManagement {

@@ -14,3 +14,6 @@ spring:
           destination: learning-spring-boot
   application:
     name: comments
+
+management:
+  context-path: /

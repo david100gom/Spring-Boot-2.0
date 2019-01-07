@@ -18,3 +18,9 @@ spring:
           content-type: application/json
   application:
     name: images
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
