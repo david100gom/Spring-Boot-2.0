@@ -1,0 +1,14 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+spring:
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: learning-spring-boot-comments
+          group: comments-service
+          content-type: application/json
+  
