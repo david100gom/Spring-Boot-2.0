@@ -1,3 +1,9 @@
 spring:
   application:
     name: images
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

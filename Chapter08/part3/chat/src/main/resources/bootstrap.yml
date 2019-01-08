@@ -1,3 +1,9 @@
 spring:
   application:
     name: chat
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
