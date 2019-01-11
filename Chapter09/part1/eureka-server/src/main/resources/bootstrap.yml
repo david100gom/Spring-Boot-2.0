@@ -4,6 +4,6 @@ spring:
     name: eureka
   cloud:
     config:
-      label: session
+      username: user
       password: password
 # end::secured-config-server[]
