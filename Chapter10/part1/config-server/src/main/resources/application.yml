@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/gregturn/learning-spring-boot-config-repo
+          uri: https://github.com/david100gom/learning-spring-boot-config-repo
