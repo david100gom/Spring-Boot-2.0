@@ -3,5 +3,5 @@ spring:
     name: comments
   cloud:
     config:
-      username: user
+      label : session
       password: password

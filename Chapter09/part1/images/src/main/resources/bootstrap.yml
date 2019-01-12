@@ -3,5 +3,5 @@ spring:
     name: images
   cloud:
     config:
-      username: user
+      label : session
       password: password

@@ -3,5 +3,5 @@ spring:
     name: chat
   cloud:
     config:
-      username : user
+      label : session
       password: password
