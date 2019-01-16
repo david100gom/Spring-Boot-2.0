@@ -1,6 +1,7 @@
 # Learning Spring Boot 2.0 - Second Edition
 
-* 여기는 한국어판 소스 리포지토리입니다. 원본 소스는 [Learning Spring Boot 2.0 - Second Edition](https://www.packtpub.com/application-development/learning-spring-boot-20-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786463784) 또는 저자 [github](https://github.com/PacktPublishing/Learning-Spring-Boot-2.0-Second-Edition)에서 확인하실 수 있습니다. 
+* 여기는 한국어판 소스 리포지토리입니다. 원본 소스는 [Learning Spring Boot 2.0 - Second Edition](https://www.packtpub.com/application-development/learning-spring-boot-20-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786463784) 또는 저자 [github](https://github.com/PacktPublishing/Learning-Spring-Boot-2.0-Second-Edition)에서 그리고,
+최신 부트버전이 적용된 소스는 서적 [github](https://github.com/learning-spring-boot/learning-spring-boot-2nd-edition-code) 에서 확인하실수 있습니다.
 
 ## 필요사양 및 프로그램
 
@@ -20,3 +21,4 @@
 
 * 소스를 구동시키기 전에 IDE 에 Lombok Annotations 이 제대로 작동하도록 설정이 필요합니다.
 * RabbitMQ 와 MongoDB 는 설치 후 구동이 되어 있어야 소스 실행시 에러가 발생하지 않습니다.
+* 8/9/10장의 경우 각 애플리케이션이 구동시 github repo (config-server 에 설정된) 에서 yml 정보를 로딩하기 때문에 config-server 를 먼저 구동해야 합니다.
