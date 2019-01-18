@@ -1,6 +1,6 @@
 # Learning Spring Boot 2.0 - Second Edition
 
-* 여기는 한국어판 소스 리포지토리입니다. 원본 소스는 [Learning Spring Boot 2.0 - Second Edition](https://www.packtpub.com/application-development/learning-spring-boot-20-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786463784) 또는 저자 [github](https://github.com/PacktPublishing/Learning-Spring-Boot-2.0-Second-Edition)에서 그리고,
+* 여기는 Learning Spring Boot 2.0 - Second Edition 한국어판 소스 리포지토리입니다. 원본 소스는 [Learning Spring Boot 2.0 - Second Edition](https://www.packtpub.com/application-development/learning-spring-boot-20-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786463784) 또는 저자 [github](https://github.com/PacktPublishing/Learning-Spring-Boot-2.0-Second-Edition)에서 그리고,
 최신 부트버전이 적용된 소스는 서적 [github](https://github.com/learning-spring-boot/learning-spring-boot-2nd-edition-code) 에서 확인하실수 있습니다.
 
 ## 필요사양 및 프로그램
