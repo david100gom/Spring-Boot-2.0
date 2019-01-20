@@ -1,0 +1,6 @@
+---
+applications:
+  - name : learning-spring-boot
+    path : build/libs/part2.jar
+    memory : 1G
+    instances: 1

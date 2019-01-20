@@ -14,7 +14,7 @@ buildscript {
 
 plugins {
 	// tag::gradle-git[]
-	id "com.gorylenko.gradle-git-properties" version "1.4.17"
+	id "com.gorylenko.gradle-git-properties" version "2.0.0"
 	// end::gradle-git[]
 }
 
@@ -62,4 +62,7 @@ dependencies {
 
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 	testCompile("io.projectreactor:reactor-test")
+
+	compile('de.flapdoodle.embed:de.flapdoodle.embed.mongo')
+
 }
