@@ -38,5 +38,6 @@
 
   https://intellij-support.jetbrains.com/hc/en-us/community/posts/206564169-Spring-Boot-DevTools-Remote-Debugging-not-Working
     
+* 9장의 http://localhost:8080/application/trace 의 데이터가 안보이시는 분들은 8장 part3을 구동하신후 http://localhost:8080/actuator/httptrace 에 접속하세요.
 
 * 8/9/10장의 각 애플리케이션은 구동시 github repo (config-server 에 설정된) 에서 yml 정보를 로딩하기 때문에 config-server 를 먼저 구동해야 합니다. 
