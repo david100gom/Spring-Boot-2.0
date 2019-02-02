@@ -1,4 +1,4 @@
-# 스프링 부트 2.0 2/e (Learning Spring Boot 2.0 - Second Edition)
+# 스프링 부트 2.0 2/e
 
 * 여기는 Learning Spring Boot 2.0 - Second Edition 한국어판 소스 리포지토리입니다. 
 
