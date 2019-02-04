@@ -34,7 +34,7 @@
 
 * 5장 devtool + liveload 설정이 안되시는 분들은 구글에서 intellij devtool 로 검색하시면 관련 자료가 많이 나와 있으니 참고해 주세요.
 
-* 5장 spring remote 참고
+* 5장 spring remote 설정 참고 (remote devtools 가 제대로 구동되지 않는 분들은 RemoteDevtoolsDemo module 를 이용하여 실습해 보세요)
 
   https://intellij-support.jetbrains.com/hc/en-us/community/posts/206564169-Spring-Boot-DevTools-Remote-Debugging-not-Working
     
