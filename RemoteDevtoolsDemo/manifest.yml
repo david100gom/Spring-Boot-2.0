@@ -1,0 +1,6 @@
+---
+applications:
+  - name : learning-spring-boot
+    path : build/libs/RemoteDevtoolsDemo.jar
+    memory : 1G
+    instances: 1
