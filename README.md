@@ -7,7 +7,7 @@
 
 ## 필요사양 및 프로그램
 
-* Spring Boot 2.0 requires Java Developer Kit (JDK) 8 or higher
+* Spring Boot 2.0 requires Java Developer Kit (JDK) 8 or higher - 역자가 테스트한 버전은 오라클 jdk1.8.0_152 입니다.
 
 * A modern IDE (IntelliJ IDEA or Spring Tool Suite) is recommended - Intellij IDEA 추천
 
